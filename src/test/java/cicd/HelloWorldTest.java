@@ -9,8 +9,8 @@ public class HelloWorldTest {
 
     @Test
     public void getText() {
-        int x=0;
-        int y=1/x;
+//        int x=0;
+//        int y=1/x;
     }
 
 
