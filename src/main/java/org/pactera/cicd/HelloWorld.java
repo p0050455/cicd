@@ -6,7 +6,7 @@ public class HelloWorld {
     private String text;
 
     public String getText() {
-        return text;
+        return text+1;
     }
 
     public void setText(String text) {
