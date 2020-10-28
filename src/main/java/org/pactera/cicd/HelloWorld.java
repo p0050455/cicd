@@ -1,6 +1,6 @@
 package org.pactera.cicd;
 
-public class HelloWord {
+public class HelloWorld {
 
 
     private String text;

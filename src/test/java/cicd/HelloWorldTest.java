@@ -2,7 +2,7 @@ package cicd;
 
 import org.junit.Test;
 
-public class HelloWord {
+public class HelloWorldTest {
 
 
     private String text;
